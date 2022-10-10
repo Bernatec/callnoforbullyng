@@ -1,0 +1,122 @@
+body {
+    background-color: rgb(214, 202, 161);
+    font-family: Verdana;
+    font-style:normal;
+    max-width: 760px;
+    margin: auto;
+    
+    
+}
+ #title { 
+ color: rgb(44, 31, 31);
+ background-color: rgb(137, 173, 71);
+ font-size: 40px;
+ font-style: oblique;
+
+ 
+}
+.subtitle{
+    color: rgb(44, 31, 31);
+ background-color: rgb(175, 134, 184);
+ font-size: 30px;
+ font-style: oblique;
+
+
+
+}
+ ________________________fim do titulo_______
+ __________imagens_________
+
+
+.h1_image{
+    border: 10px solid rgb(182, 152, 178);
+    border-radius: 50%;   
+    
+}
+.leisimage{
+    border: 10px solid rgb(182, 152, 178);
+    border-radius: 50%;    
+    
+
+}
+___________fim imagens___
+
+___linkstyle___
+.linkstyle{
+    
+  
+}
+  .linkstyle li a{
+      
+    list-style: square;
+      font-style: normal;
+      color: brown;
+     
+     
+     
+      
+
+  }
+  
+ ____postagens___   
+
+ .postagem{
+
+ }
+
+ .postagem{
+    font-family: Verdana;
+    font-size: 22px;
+    background-color: rgb(194, 181, 124);
+    border: 10px; color: rgb(184, 36, 36);
+    
+    
+}
+ ___________________fim postagem_____  
+
+ __________________inicio assuntos de postagem________________
+.assuntopostagem{
+    
+   
+}
+.assuntopostagem{
+    font-size: 12px;
+    background-color: rgb(194, 181, 124);
+    color: rgb(0, 0, 0);
+    padding: 19px;
+   
+}
+
+_________fim assuntos de postagem _______
+   .form{
+       width: 100%;
+       max-width: 32rem;
+       font-size: 1.125rem;
+       
+   }
+.form label{
+    color: rgb(12, 0, 119);
+    line-height: 1;
+    margin-bottom: 0.5rem;
+
+
+}
+.form input,
+.form textarea{
+    font: inherit;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    width: 100%;
+}
+.form textarea{
+    min-height: 13rem;
+    resize: vertical;
+}
+.form button{
+display: block;
+width: 100%;
+}
+    
+
